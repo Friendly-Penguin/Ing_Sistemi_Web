@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/account/biglietti.jsp" value="file://$PROJECT_DIR$/src/main/webapp/jsp/account" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/carrello/metodoPagamento.jsp" value="file://$PROJECT_DIR$/src/main/webapp/jsp/carrello" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/carrello/view.jsp" value="file://$PROJECT_DIR$/src/main/webapp/jsp/carrello" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/homeManagement/view.jsp" value="file://$PROJECT_DIR$/src/main/webapp/jsp/homeManagement" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/sala/view.jsp" value="file://$PROJECT_DIR$/src/main/webapp/jsp/sala" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/sezioneAdmin/aggiuntaFilm/view.jsp" value="file://$PROJECT_DIR$/src/main/webapp/jsp/sezioneAdmin/aggiuntaFilm" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/sezioneAdmin/nuovaProiezione/selezionaOrario.jsp" value="file://$PROJECT_DIR$/src/main/webapp/jsp/sezioneAdmin/nuovaProiezione" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/viewFilm/view.jsp" value="file://$PROJECT_DIR$/src/main/webapp/jsp/viewFilm" />
+      </map>
+    </option>
+  </component>
+</project>
